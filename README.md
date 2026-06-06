@@ -41,5 +41,15 @@ This topology allows simulation of secure communication, traffic routing, and co
 | ---------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Project Lead + Network Architect**           | Muhammad Hassan Ijaz    | Design the network topology, create the GNS3 lab, configure routers, switches, and basic routing. Oversee the project execution and ensure connectivity between on-prem and cloud nodes. |
 | **Security Engineer + Automation Lead**        | Muhammad Taufeeq Majeed | Configure StrongSwan IPsec, firewall rules, VPN, and security settings. Automate repetitive tasks using scripts, test connectivity, and ensure secure data flow.                         |
-| **Testing / QA Engineer + Documentation Lead** | Shared by both          | Validate connectivity between all nodes, perform ping/traceroute tests. Document each step, commands used, screenshots, and project progress. Prepare README and GitHub updates.         |
-
+| **Testing / QA Engineer + Documentation Lead** | Shared by both          | Validate connectivity between all nodes, perform ping/traceroute tests. Document each step, commands used, screenshots, and project progress. Prepare README and GitHub updates.   |           
+    
+ Week 1: Requirements & Topology Design       
+    
+ Week 2: GNS3 Implementation & Connectivity     
+ 
+ Week 3: Security & IPsec        
+   
+ Week 4: Advanced Features & Integration       
+ 
+ Week 5: Final Report & Video        
+ 

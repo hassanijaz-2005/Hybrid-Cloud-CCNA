@@ -14,7 +14,6 @@ Connectivity: NAT1 provides internet access for StrongSwan and servers
 
 Insert topology diagram here 
 
-
 Setup Instructions
 GNS3 VM Configuration: Install and configure the GNS3 VM.
 Device Setup:

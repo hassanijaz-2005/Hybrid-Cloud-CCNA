@@ -43,7 +43,7 @@ This topology allows simulation of secure communication, traffic routing, and co
 | **Security Engineer + Automation Lead**        | Muhammad Taufeeq Majeed | Configure StrongSwan IPsec, firewall rules, VPN, and security settings. Automate repetitive tasks using scripts, test connectivity, and ensure secure data flow.                         |
 | **Testing / QA Engineer + Documentation Lead** | Shared by both          | Validate connectivity between all nodes, perform ping/traceroute tests. Document each step, commands used, screenshots, and project progress. Prepare README and GitHub updates.   |           
     
- Week 1: Requirements & Topology Design       
+✅ Week 1: Requirements & Topology Design       
     
  Week 2: GNS3 Implementation & Connectivity     
  

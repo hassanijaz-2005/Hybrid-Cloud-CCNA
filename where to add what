@@ -1,0 +1,15 @@
+Scripts Folder
+Add all automation scripts, Python files, or Bash scripts you created for testing connectivity, VPN checks, or server tasks.
+Example: test_connectivity.py → commit it inside scripts.
+Security Folder
+Add configuration screenshots, IPSec configs, firewall ACL snapshots, or any documentation for the security setup.
+Example: strongswan_config.png or security_config.md.
+Weekly-Status Folder
+Store weekly updates, progress reports, or summaries of tasks done each week.
+Example: week1_status.md, week2_status.md.
+Docs Folder
+Place design documents, topology diagrams, README sections for detailed explanations, or manuals.
+Example: topology_diagram.png, setup_instructions.md.
+Updating README.md
+You can now edit README.md to describe the project, its topology, devices, and usage commands.
+Add screenshots or references to files inside docs using Markdown syntax:

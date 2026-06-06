@@ -8,3 +8,22 @@ Step-by-step topology and connection documentation.
 Verification commands for testing connectivity and routing.
 
 This project serves as a reference for designing, configuring, and testing hybrid cloud networks in GNS3.
+IPsec Tunnel: Between Cisco Router and StrongSwan Gateway
+Switches: OnPremSwitch, SW2VPNTransit, SW3-Cloud-LAN
+Connectivity: NAT1 provides internet access for StrongSwan and servers
+
+Insert topology diagram here 
+
+
+Setup Instructions
+GNS3 VM Configuration: Install and configure the GNS3 VM.
+Device Setup:
+Add Cisco Router, Ubuntu Servers, StrongSwan Gateway, Switches.
+Connect devices as per the topology.
+Routing Configuration:
+Configure static and dynamic routing on Cisco router.
+Assign IP addresses to all interfaces.
+IPsec Configuration:
+Install StrongSwan on the gateway container.
+Configure pre-shared key and tunnel parameters.
+Connectivity Test: Ping across on-prem and cloud networks to verify tunnel functionality.

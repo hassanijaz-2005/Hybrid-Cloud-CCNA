@@ -15,7 +15,7 @@ Switches:
 3)SW3-Cloud-LAN
 Connectivity: NAT1 provides internet access for StrongSwan and servers
 
-Insert topology diagram here 
+
 <img width="1917" height="756" alt="Network Topology" src="https://github.com/user-attachments/assets/4025e69b-c74b-4562-bc10-33b9f54418e8" />
 
 Setup Instructions

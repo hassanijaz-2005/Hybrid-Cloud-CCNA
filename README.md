@@ -4,11 +4,15 @@ This project demonstrates a hybrid cloud setup connecting an on-premise network 
 
 Devices Used:
 
-Cisco Router: R1-Cisco-Router — used for routing between on-prem and cloud networks.
+Cisco Router: R1-Cisco-Router — used for routing between on-prem and cloud networks.   
+
 Switches:
-SW1-OnPrem-LAN — connects on-prem servers.
-SW2-VPNTransit — connects VPN Gateway and router for the secure tunnel.
-SW3-Cloud-LAN — connects cloud server.
+SW1-OnPrem-LAN — connects on-prem servers.    
+     
+SW2-VPNTransit — connects VPN Gateway and router for the secure tunnel.     
+
+SW3-Cloud-LAN — connects cloud server.      
+
 Servers / End Devices:
 Ubuntu-OnPrem-Server — on-prem server (172.16.1.0/24 network).
 Cloud-Server — Docker container for cloud network (10.0.0.0/24 network).

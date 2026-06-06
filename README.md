@@ -10,6 +10,7 @@ Verification commands for testing connectivity and routing.
 This project serves as a reference for designing, configuring, and testing hybrid cloud networks in GNS3.
 IPsec Tunnel: Between Cisco Router and StrongSwan Gateway
 Switches: 
+
 1)SW1OnPremSwitch
 2)SW2VPNTransit
 3)SW3-Cloud-LAN

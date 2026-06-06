@@ -2,6 +2,9 @@ Project Title: Hybrid Cloud Network with IPsec
 
 This project demonstrates a hybrid cloud setup connecting an on-premise network to a cloud environment using GNS3 and Docker containers, secured with StrongSwan IPsec VPN. The topology integrates multiple network devices to simulate a real-world enterprise cloud deployment. The aim is to provide hands-on experience with routing, VPN configuration, and network testing between on-prem and cloud segments.
 
+      <img width="1917" height="756" alt="Network Topology" src="https://github.com/user-attachments/assets/71659753-b0fe-4dea-95d3-3d277ace8339" />
+
+
 Devices Used:
 
 Cisco Router: R1-Cisco-Router — used for routing between on-prem and cloud networks.   
